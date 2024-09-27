@@ -1,0 +1,17 @@
+/* Light Mode Styles (Standardmodus) */
+body.light-mode {
+    background-color: white;
+    color: black;
+}
+
+body.light-mode h1 {
+    color: rgb(20, 44, 224);
+}
+
+body.light-mode p {
+    font-size: 16px;
+    color: black;
+}
+
+body.light-mode img {
+    border: 2px solid b
