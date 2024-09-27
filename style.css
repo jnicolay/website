@@ -14,4 +14,34 @@ body.light-mode p {
 }
 
 body.light-mode img {
-    border: 2px solid b
+    border: 2px solid black;
+    width: 500px;
+}
+
+/* Dark Mode Styles */
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+body.dark-mode h1 {
+    color: rgb(140, 10, 152);
+}
+
+body.dark-mode p {
+    font-size: 18px;
+    color: lightgray;
+}
+
+body.dark-mode img {
+    border: 2px solid white;
+    filter: brightness(0.7);
+    width: 100%;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
