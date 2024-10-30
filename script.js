@@ -28,6 +28,6 @@ toggleButton.addEventListener('click', function () {
         // Inhalt im Light Mode ändern
         mainHeading.textContent = "Welcome to my work space!";
         mainParagraph.textContent = "I proudly present my current work projects and social engagement here. Take your time and have a look!";
-        exampleImage.src = "https://images.squarespace-cdn.com/content/v1/6242def392e54114f4f0c84e/d1fa0ed6-12c8-4f16-9b9c-1b27c6c829ea/DSC09609.jpg?format=750w";
+        exampleImage.src = "JN_professional.jpeg";
     }
 });
